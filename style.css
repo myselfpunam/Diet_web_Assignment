@@ -1,0 +1,142 @@
+
+body{
+  font-family: 'Roboto', sans-serif;
+  
+}
+span{
+  color: orange;
+  font-weight: 700;
+}
+h1{
+
+  font-size: 540%;
+  color: rgb(97, 93, 93);
+}
+h2{
+  font-weight: 600;
+  font-size: 400%;
+  text-align: center;
+  opacity: 0.4;
+}
+h3{
+  font-weight: 700;
+  font-size: 250%;
+
+  
+}
+p{
+  font-size: 150%;
+  color: rgb(97, 93, 93);
+}
+.new{
+    font-size: 150%;
+    text-align: center;
+    opacity: 0.4;
+
+}
+section{
+ height: 1000px;
+}
+ *{
+  padding: 0;
+  margin: 0;
+ }
+
+
+.container{
+  background: url("top-banner.png");
+  background-repeat: no-repeat;
+  background-size: 2100px;
+  background-position-y: left ;
+}
+.order{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  margin-top: 5%;
+
+}
+.order img{
+  width: 80%;
+  height: 750px;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.btn{
+  background-image: linear-gradient(rgb(255, 102, 0) , orange);
+  text-decoration: none;
+  padding: 25px 55px;
+  border-radius:40px 40px 40px 40px;
+  color: white;
+  font-weight: 700;
+}
+.mid-container{
+  background-image: url("b1.png");
+  background-repeat: no-repeat;
+  height: 850px;
+  background-size: 2000px;
+  background-position: right;
+  padding: 0;
+  margin: 0;
+
+}
+.experience-area{
+  width: 850;
+}
+.exp1{
+  width: 26%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+
+}
+.exp1 img{
+  width: 92%;
+  height: 300px;
+}
+.experience-area div{
+  box-shadow: 10px 9px 20px gray;
+  height: 65%;
+  width: 24%;
+  border-radius: 10%;
+}
+.showoff{
+  width: 30%;
+  float: left;
+  margin-top: -2%;
+
+
+}
+.social-side{
+
+  height: 450px;
+  width: 100%;
+  margin-top: -8%;
+}
+.box{
+  box-shadow: 5px  5px 5px 5px gray;
+  margin-left: 5%;
+
+  border-color: white;
+  height: 40%;
+  width: 83%;
+  padding-top: 7%;
+  padding-left: 5%;
+  border-radius:30px 30px 30px 30px;
+  background-color: rgb(255, 255, 255);
+}
+.bal{
+text-align: center;
+font-size: 300%;
+
+}
+footer{
+  background-color: #0B0D17;
+  height: 350px;
+}
+.finish{
+  color: #E6E6E7;
+  font-size: 200;
+  text-align: center;
+}
